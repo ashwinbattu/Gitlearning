@@ -10,3 +10,5 @@ rel1-0 after fastforward
 
 
 feature 1-rel.2
+
+fix for base feature rel_1.2
